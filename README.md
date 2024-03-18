@@ -1,2 +1,2 @@
 # CRUD_REST_API_JAVA_SPRING
-CRUD REST JAVA SPRING MySQL no VS Code
+ Criando um projeto SPRING/JAVA para um CRUD REST API com MySQL no VS Code
