@@ -4,4 +4,6 @@
 
  Nesse projeto existe uma entidade chamada CONTATO, que possui os atributos ID, NOME, TELEFONE, E-MAIL e URL_AVATAR (url de uma foto).
 
- O REST API tem as funções de consulta, inserção, alteração e exclusão.
+ O REST API tem as funções de consulta (GET), inserção (POST), alteração (PUT) e exclusão (DELETE) que podem serem feitos em qualquer plataforme, por exemplo <a href="https://reqbin.com/">.
+
+ 
